@@ -1,1 +1,1 @@
-This is file we created to test pull command
+This is file we created to test pull command in the GitHub

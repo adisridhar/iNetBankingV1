@@ -24,7 +24,8 @@ public class TC_LoginTest_001 extends BaseClass {
 		Thread.sleep(3000);
 		
 		lp.clickSubmit();
-				
+		
+		
 		if(driver.getTitle().equals(" Guru99 Bank Manager HomePage "))
 		{
 			Assert.assertTrue(true);

@@ -43,9 +43,6 @@
 <!-- Plug-ins required for executing Tests  ended-->
 
 
-
-
-
 <!-- Dependencies required for Project -->
   <dependencies>
     <dependency>

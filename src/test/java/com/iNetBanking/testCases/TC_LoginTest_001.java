@@ -34,10 +34,10 @@ public class TC_LoginTest_001 extends BaseClass {
 		{
 			//method from the base class to capture screenshot
 			captureScreen(driver,"loginTest");
-			
 			Assert.assertTrue(false);
 			logger.info("Login test failed");
 		}
+		
 		
 	}
 	
